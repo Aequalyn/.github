@@ -4,13 +4,13 @@ An Arch-based Linux desktop for Hyprland, built around its own Quickshell shell.
 follow your wallpaper or a theme you pin, every part can be dressed, turned off or extended,
 and what the settings do is also a command you can script.
 
-![The Aequalyn desktop](https://raw.githubusercontent.com/Aequalyn/aequalyn-shell/main/docs/screenshots/desktop.jpg)
+![The Aequalyn desktop](https://raw.githubusercontent.com/Aequalyn/aequalyn-shell/main/common/docs/screenshots/desktop.jpg)
 
 | Control center | Theme picker |
 | --- | --- |
-| ![](https://raw.githubusercontent.com/Aequalyn/aequalyn-shell/main/docs/screenshots/control-center-bar.jpg) | ![](https://raw.githubusercontent.com/Aequalyn/aequalyn-shell/main/docs/screenshots/picker-themes-grid.jpg) |
+| ![](https://raw.githubusercontent.com/Aequalyn/aequalyn-shell/main/common/docs/screenshots/control-center-bar.jpg) | ![](https://raw.githubusercontent.com/Aequalyn/aequalyn-shell/main/common/docs/screenshots/picker-themes-grid.jpg) |
 | **Store** | **Quick looks** |
-| ![](https://raw.githubusercontent.com/Aequalyn/aequalyn-shell/main/docs/screenshots/store-plugins.jpg) | ![](https://raw.githubusercontent.com/Aequalyn/aequalyn-shell/main/docs/screenshots/quick-looks-bar.jpg) |
+| ![](https://raw.githubusercontent.com/Aequalyn/aequalyn-shell/main/common/docs/screenshots/store-plugins.jpg) | ![](https://raw.githubusercontent.com/Aequalyn/aequalyn-shell/main/common/docs/screenshots/quick-looks-bar.jpg) |
 
 | Repository | |
 | --- | --- |
